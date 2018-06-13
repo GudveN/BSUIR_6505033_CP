@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GUI">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="CPU::cpuid_regs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CPU_win.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAACAAAAAAAAAAAgCAAAAAAAEAAAACAAAQAA=</HashCode>
+      <FileName>CPU_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPU">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>GPU_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDD">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAgAAAAAAAAAEAiAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDD_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memory">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Memory_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemInfo">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQIAAA=</HashCode>
+      <FileName>SystemInfo_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

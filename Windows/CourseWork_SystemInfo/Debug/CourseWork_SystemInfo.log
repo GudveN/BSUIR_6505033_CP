@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\project c++\coursework_systeminfo\coursework_systeminfo\service_win.h(84): warning C4101: 'te32': unreferenced local variable
+d:\project c++\coursework_systeminfo\coursework_systeminfo\hdd_win.h(112): warning C4477: 'sprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 3 has type 'DWORD'
+d:\project c++\coursework_systeminfo\coursework_systeminfo\cpu_win.h(107): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+d:\project c++\coursework_systeminfo\coursework_systeminfo\cpu_win.h(109): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+  CourseWork_SystemInfo.vcxproj -> D:\Project C++\CourseWork_SystemInfo\Debug\CourseWork_SystemInfo.exe
